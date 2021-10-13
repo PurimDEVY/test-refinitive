@@ -1,0 +1,21 @@
+.left-Panel {
+  width: 200px;
+  display: inline-block;
+  border-style: solid;
+  height: 400px;
+}
+
+.mid-Panel {
+  display: inline-block;
+  border-style: solid;
+  max-width: 100%;
+  min-width: 100px;
+  height: 400px;
+}
+
+.right-Panel {
+  width: 300px;
+  display: inline-block;
+  border-style: solid;
+  height: 400px;
+}
